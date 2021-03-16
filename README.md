@@ -1,3 +1,5 @@
-# technomad stack template
+# kyle chi roots
 
-- [ ] create content/
+- [x] create content/
+- [x] `git submodule update --init --recursive`
+
