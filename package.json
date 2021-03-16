@@ -6,7 +6,8 @@
   "author": "wommy <tom@technomad.media>",
   "license": "MIT",
   "scripts": {
-    "init": "git submodule update --init --recursive; mkdir content; cd content;",
-    "prebuild": "cp -r content/* tms/11ty/"
+    "init": "git submodule update --init --recursive; cd tms; yarn;",
+    "prebuild": "cp -r content/* tms/11ty/",
+    "dev": "yarn run prebuild; cd tms; yarn run dev;"
   }
 }
