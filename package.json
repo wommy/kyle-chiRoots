@@ -1,0 +1,11 @@
+{
+  "name": "kyle-chiRoots",
+  "version": "1.0.0",
+  "description": "build with github.com/wommy/tmst",
+  "repository": "git@github.com:wommy/kyle-chiRoots.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "scripts": {
+    "init": "git submodule update --init --recursive; mkdir content; cd content;"
+  }
+}
