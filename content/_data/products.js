@@ -1,46 +1,25 @@
-trolmaster
-
-athena ag
-
-azramax
-
-bio canna
-
-bluelab
-
-bubble magic
-
-cultured biologix
-
-digilux
-
-fiskar
-
-gardening indoors
-
-gavita
-
-greengro
-
-growers choice
-
-heavy 16
-
-hortilux
-
-karma works
-
-kind
-
-magicalbutter
-
-mammoth
-
-mars
-
-neptunes harvest 
-
-purple cow
-
-roots organics
-
+module.exports = [
+	'trolmaster',
+	'athenaAG',
+	'azramax',
+	'bioCanna',
+	'bluelab',
+	'bubbleMagic',
+	'culturedBiologix',
+	'digilux',
+	'fiskar',
+	'gardeningIndoors',
+	'gavita',
+	'greengro',
+	'growersChoice',
+	'heavy16',
+	'hortilux',
+	'karmaWorks',
+	'kind',
+	'magicalbutter',
+	'mammoth',
+	'mars',
+	'neptunesHarvest', 
+	'purpleCow', 
+	'rootsOrganics'
+]
